@@ -6,48 +6,40 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a first-year PhD student at the University of Central Florida, under the supervision of Dr. Xueqiang Wang. Prior to my doctoral studies, I worked as an iOS development engineer at ByteDance's Douyin Relationship and Privacy Team. I earned my Master's degree in Advanced Computer Science from the University of Manchester and my Bachelor's degree in Software Engineering from South China Agricultural University. 
+I am currently a first-year PhD student at the University of Central Florida, under the supervision of [Dr. Xueqiang Wang](https://xw48.github.io/). Prior to my doctoral studies, I worked as an iOS development engineer at ByteDance's Douyin Relationship and Privacy Team. I earned my Master's degree in Advanced Computer Science from the University of Manchester and my Bachelor's degree in Software Engineering from South China Agricultural University. 
 
 My current research interests include Software Supply Chain Security and Machine Learning.
 
 ## Education
 
 ### University of Central Florida, Orlando, FL, U.S
-**Ph.D. student in Computer Science**
-*Aug. 2023 – present*
+Ph.D. student in Computer Science, Aug. 2023 – present
 
-### The University Of Manchester, Manchester, UK
-**M.Sc. in Advanced Computer Science**  
-*Sept. 2019 - Sept. 2020*
+### The University of Manchester, Manchester, UK
+M.Sc. in Advanced Computer Science, Sept. 2019 - Sept. 2020
 
 ### South China Agricultural University, Guangzhou, China
-**B.Eng in Software Engineering**  
-*Sept. 2015 – Jun. 2019*
+B.Eng in Software Engineering, Sept. 2015 – Jun. 2019
 
 ## Work Experience
 
 ### Univerisity of Central Florida, Orlando, USA
-**Research Assistant**  
-*Aug. 2023 - present*
+Research Assistant, Aug. 2023 - present
 
 ### ByteDance, Shanghai, China
-**iOS Development Engineer · Douyin Relationship and Privacy Team**  
-*Dec. 2020 - July. 2023*
-
-**iOS Development Engineer Intern · Douyin Social Team**  
-*Jul. 2020 - Nov. 2020*
+iOS Development Engineer, Douyin Relationship and Privacy Team, Dec. 2020 - July. 2023
+iOS Development Engineer Intern, Douyin Social Team, Jul. 2020 - Nov. 2020
 
 ### Macriocode Co., Ltd., Shengzhen, China
-**Data Mining Engineer Intern**  
-*Jul. 2018 - Oct. 2018*
+Data Mining Engineer Intern, Jul. 2018 - Oct. 2018
 
 ## Publications
 (*: Equal contribution)
 
-- **[Euro S&P 2024] Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators**  
+- **[Euro S&P 2024] Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators** [[PDF]](http://yorca.github.io/files/2024131356.pdf)  
   Zhaojie Hu*, Jingzhou Ye*, Yifan Zhang, Xueqiang Wang
 
-- **[USENIX Security 2024] Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs**  
+- **[USENIX Security 2024] Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs** [[PDF]](http://yorca.github.io/files/usenix24.pdf)  
   Yifan Zhang*, Zhaojie Hu*, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
 
 ## Awards and Honors
