@@ -40,10 +40,10 @@ Data Mining Engineer Intern, Jul. 2018 - Oct. 2018
 (*: Equal contribution)
 
 **[Euro S&P 2024] Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators** [[PDF]](http://yorca.github.io/files/2024131356.pdf)  
-  Zhaojie Hu*, Jingzhou Ye*, Yifan Zhang, Xueqiang Wang
+  Zhaojie Hu\*, Jingzhou Ye\*, Yifan Zhang, Xueqiang Wang
 
 **[USENIX Security 2024] Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs** [[PDF]](http://yorca.github.io/files/usenix24.pdf)  
-  Yifan Zhang*, Zhaojie Hu*, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
+  Yifan Zhang\*, Zhaojie Hu\*, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
 
 ## Awards and Honors
 - ORCGS Doctoral Fellowship, University of Central Florida, 2023-2024
