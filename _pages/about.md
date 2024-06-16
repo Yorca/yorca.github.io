@@ -10,15 +10,6 @@ I am currently a first-year PhD student at the University of Central Florida, un
 
 My current research interests include Software Supply Chain Security and Machine Learning.
 
-## Publications
-(*: Equal contribution)
-
-**[Euro S&P 2024] Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators** [[PDF]](http://yorca.github.io/files/2024131356.pdf)  
-Zhaojie Hu\*, Jingzhou Ye\*, Yifan Zhang, Xueqiang Wang
-
-**[USENIX Security 2024] Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs** [[PDF]](http://yorca.github.io/files/usenix24.pdf)  
-Yifan Zhang\*, Zhaojie Hu\*, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
-
 ## Education
 
 ### University of Central Florida, Orlando, FL, U.S
@@ -29,6 +20,17 @@ M.Sc. in Advanced Computer Science, Sep. 2019 - Nov. 2020
 
 ### South China Agricultural University, Guangzhou, China
 B.Eng in Software Engineering, Sep. 2015 – Jun. 2019
+
+
+## Publications
+(*: Equal contribution)
+
+**[Euro S&P 2024] Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators** [[PDF]](http://yorca.github.io/files/2024131356.pdf)  
+Zhaojie Hu\*, Jingzhou Ye\*, Yifan Zhang, Xueqiang Wang
+
+**[USENIX Security 2024] Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs** [[PDF]](http://yorca.github.io/files/usenix24.pdf)  
+Yifan Zhang\*, Zhaojie Hu\*, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
+
 
 ## Work Experience
 
