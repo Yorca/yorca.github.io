@@ -13,13 +13,13 @@ My current research interests include Software Supply Chain Security and Machine
 ## Education
 
 ### University of Central Florida, Orlando, FL, U.S
-Ph.D. student in Computer Science, Aug. 2023 – present
+Ph.D. in Computer Science, Aug. 2023 – present
 
 ### The University of Manchester, Manchester, UK
-M.Sc. in Advanced Computer Science, Sept. 2019 - Sept. 2020
+M.Sc. in Advanced Computer Science, Sep. 2019 - Nov. 2020
 
 ### South China Agricultural University, Guangzhou, China
-B.Eng in Software Engineering, Sept. 2015 – Jun. 2019
+B.Eng in Software Engineering, Sep. 2015 – Jun. 2019
 
 ## Work Experience
 
@@ -27,7 +27,10 @@ B.Eng in Software Engineering, Sept. 2015 – Jun. 2019
 Research Assistant, Aug. 2023 - present
 
 ### ByteDance, Shanghai, China
-iOS Development Engineer, Douyin Relationship and Privacy Team, Dec. 2020 - July. 2023
+iOS Development Engineer, Douyin Relationship and Privacy Team, Dec. 2020 - Jul. 2023
+
+## Internship
+### ByteDance, Shanghai, China
 iOS Development Engineer Intern, Douyin Social Team, Jul. 2020 - Nov. 2020
 
 ### Macriocode Co., Ltd., Shengzhen, China
@@ -36,14 +39,14 @@ Data Mining Engineer Intern, Jul. 2018 - Oct. 2018
 ## Publications
 (*: Equal contribution)
 
-- **[Euro S&P 2024] Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators** [[PDF]](http://yorca.github.io/files/2024131356.pdf)  
+**[Euro S&P 2024] Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators** [[PDF]](http://yorca.github.io/files/2024131356.pdf)  
   Zhaojie Hu*, Jingzhou Ye*, Yifan Zhang, Xueqiang Wang
 
-- **[USENIX Security 2024] Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs** [[PDF]](http://yorca.github.io/files/usenix24.pdf)  
+**[USENIX Security 2024] Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs** [[PDF]](http://yorca.github.io/files/usenix24.pdf)  
   Yifan Zhang*, Zhaojie Hu*, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
 
 ## Awards and Honors
 - ORCGS Doctoral Fellowship, University of Central Florida, 2023-2024
 
 ## Service
-- CCS'24, co-reviewer
+- CCS' 24, co-reviewer
