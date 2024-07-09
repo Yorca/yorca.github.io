@@ -25,11 +25,11 @@ B.Eng in Software Engineering, Sep. 2015 – Jun. 2019
 ## Publications
 (*: Equal contribution)
 
-**[Euro S&P 2024] Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators** [[PDF]](http://yorca.github.io/files/2024131356.pdf)  
-Zhaojie Hu\*, Jingzhou Ye\*, Yifan Zhang, Xueqiang Wang
-
 **[USENIX Security 2024] Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs** [[PDF]](http://yorca.github.io/files/usenix24.pdf)  
 Yifan Zhang\*, Zhaojie Hu\*, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
+
+**[Euro S&P 2024] Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators** [[PDF]](http://yorca.github.io/files/2024131356.pdf)  
+Zhaojie Hu\*, Jingzhou Ye\*, Yifan Zhang, Xueqiang Wang
 
 
 ## Work Experience
@@ -38,11 +38,11 @@ Yifan Zhang\*, Zhaojie Hu\*, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wan
 Research Assistant, Aug. 2023 - present
 
 ### ByteDance, Shanghai, China
-iOS Development Engineer, Douyin Relationship and Privacy Team, Dec. 2020 - Jul. 2023
+iOS Engineer, Douyin Relationship and Privacy Team, Dec. 2020 - Jul. 2023
 
 ## Internship
 ### ByteDance, Shanghai, China
-iOS Development Engineer Intern, Douyin Social Team, Jul. 2020 - Nov. 2020
+iOS Engineer Intern, Douyin Social Team, Jul. 2020 - Nov. 2020
 
 ### Macriocode Co., Ltd., Shengzhen, China
 Data Mining Engineer Intern, Jul. 2018 - Oct. 2018
