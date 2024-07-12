@@ -33,7 +33,7 @@ My current research interests include Software Supply Chain Security and Machine
 
 ## Education
 
-### University of Central Florida, Orlando, FL, U.S
+### University of Central Florida, Orlando, FL, USA
 Ph.D. in Computer Science, Aug. 2023 – present
 
 ### The University of Manchester, Manchester, UK
@@ -44,7 +44,7 @@ B.Eng in Software Engineering, Sep. 2015 – Jun. 2019
 
 ## Work Experience
 
-### Univerisity of Central Florida, Orlando, USA
+### University of Central Florida, Orlando, USA
 Research Assistant, Aug. 2023 - present
 
 ### ByteDance, Shanghai, China
@@ -54,11 +54,11 @@ iOS Engineer, Douyin Relationship and Privacy Team, Dec. 2020 - Jul. 2023
 ### ByteDance, Shanghai, China
 iOS Engineer Intern, Douyin Social Team, Jul. 2020 - Nov. 2020
 
-### Macriocode Co., Ltd., Shengzhen, China
+### Macriocode Co., Ltd., Shenzhen, China
 Data Mining Engineer Intern, Jul. 2018 - Oct. 2018
 
 ## Awards and Honors
 - ORCGS Doctoral Fellowship, University of Central Florida, 2023-2024
 
 ## Service
-- CCS' 24, co-reviewer
+- CCS' 24, Co-reviewer
