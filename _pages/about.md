@@ -6,9 +6,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a first-year PhD student at the University of Central Florida, under the supervision of [Dr. Xueqiang Wang](https://xw48.github.io/). Prior to my doctoral studies, I worked as an iOS development engineer at ByteDance's Douyin Relationship and Privacy Team. I earned my Master's degree in Advanced Computer Science from the University of Manchester and my Bachelor's degree in Software Engineering from South China Agricultural University. 
+I am currently a first-year PhD student at the University of Central Florida, under the supervision of [Dr. Xueqiang Wang](https://xw48.github.io/). Prior to my doctoral studies, I worked at ByteDance's Douyin Relationship and Privacy Team. I earned my Master's degree in Advanced Computer Science from the University of Manchester and my Bachelor's degree in Software Engineering from South China Agricultural University. 
 
 My current research interests include Software Supply Chain Security and Machine Learning.
+
+## Publications
+(*: Equal contribution)
+
+<div style="display: flex; align-items: center;">
+  <img src="http://yorca.github.io/file/paper_pics/FEGEN.png" width="50" style="margin-right: 10px;">
+  <div>
+    <strong><a href="http://yorca.github.io/files/usenix24.pdf">USENIX Security 2024: Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs</a></strong>  
+    Yifan Zhang<em>*</em>, Zhaojie Hu<em>*</em>, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="http://yorca.github.io/file/paper_pics/pico.png" style="margin-right: 10px;">
+  <div>
+    <strong><a href="http://yorca.github.io/files/2024131356.pdf">Euro S&P 2024: Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators</a></strong>  
+    Zhaojie Hu<em>*</em>, Jingzhou Ye<em>*</em>, Yifan Zhang, Xueqiang Wang
+  </div>
+</div>
 
 ## Education
 
@@ -20,28 +39,6 @@ M.Sc. in Advanced Computer Science, Sep. 2019 - Nov. 2020
 
 ### South China Agricultural University, Guangzhou, China
 B.Eng in Software Engineering, Sep. 2015 – Jun. 2019
-
-
-## Publications
-(*: Equal contribution)
-
-<div style="display: flex; align-items: center;">
-  <img src="http://yorca.github.io/filea/paper_pics/FEGEN.png" width="50" style="margin-right: 10px;">
-  <div>
-    <strong><a href="http://yorca.github.io/files/usenix24.pdf">USENIX Security 2024: Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs</a></strong>  
-    Yifan Zhang<em>*</em>, Zhaojie Hu<em>*</em>, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
-  </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <img src="http://yorca.github.io/filea/paper_pics/pico.png" style="margin-right: 10px;">
-  <div>
-    <strong><a href="http://yorca.github.io/files/2024131356.pdf">Euro S&P 2024: Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators</a></strong>  
-    Zhaojie Hu<em>*</em>, Jingzhou Ye<em>*</em>, Yifan Zhang, Xueqiang Wang
-  </div>
-</div>
-
-
 
 ## Work Experience
 
