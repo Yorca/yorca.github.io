@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zhaojie Hu"
-description              : &description "PhD Student at University of Central Florida"
+description              : &description "Zhaojie Hu, PhD Student at University of Central Florida"
 url                      : https://yorca.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yorca.github.io"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # Username
+  googlescholar    : https://scholar.google.com/citations?user=Ldjkfb0AAAAJ&hl=en
   impactstory      : # URL
   orcid            :
   pubmed           :

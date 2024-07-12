@@ -14,18 +14,18 @@ My current research interests include Software Supply Chain Security and Machine
 (*: Equal contribution)
 
 <div style="display: flex; align-items: center;">
-  <img src="http://yorca.github.io/files/paper_pics/FEGEN.png" width="300" style="margin-right: 10px; margin-bottom: 30px;">
+  <img src="http://yorca.github.io/files/paper_pics/pico.png" width="300" style="margin-right: 10px; margin-bottom: 30px;">
   <div>
-    <strong><a href="http://yorca.github.io/files/usenix24.pdf">USENIX Security 2024: Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs</a></strong>
+    <strong><a href="http://yorca.github.io/files/usenix24.pdf">[USENIX Security 2024] Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs</a></strong>
     <br>
     Yifan Zhang<em>*</em>, <strong>Zhaojie Hu<em>*</em></strong>, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="http://yorca.github.io/files/paper_pics/pico.png" width="300" style="margin-right: 10px; margin-bottom: 30px;">
+  <img src="http://yorca.github.io/files/paper_pics/FEGEN.png" width="300" style="margin-right: 10px; margin-bottom: 30px;">
   <div>
-    <strong><a href="http://yorca.github.io/files/2024131356.pdf">Euro S&P 2024: Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators</a></strong>  
+    <strong><a href="http://yorca.github.io/files/2024131356.pdf">[Euro S&P 2024] Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators</a></strong>  
     <br>
     <strong>Zhaojie Hu<em>*</em></strong>, Jingzhou Ye<em>*</em>, Yifan Zhang, Xueqiang Wang
   </div>
