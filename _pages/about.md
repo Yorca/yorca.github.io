@@ -25,11 +25,22 @@ B.Eng in Software Engineering, Sep. 2015 – Jun. 2019
 ## Publications
 (*: Equal contribution)
 
-**[USENIX Security 2024] Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs** [[PDF]](http://yorca.github.io/files/usenix24.pdf)  
-Yifan Zhang\*, Zhaojie Hu\*, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
+<div style="display: flex; align-items: center;">
+  <img src="http://yorca.github.io/filea/paper_pics/FEGEN.png" width="50" style="margin-right: 10px;">
+  <div>
+    <strong><a href="http://yorca.github.io/files/usenix24.pdf">USENIX Security 2024: Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs</a></strong>  
+    Yifan Zhang<em>*</em>, Zhaojie Hu<em>*</em>, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
+  </div>
+</div>
 
-**[Euro S&P 2024] Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators** [[PDF]](http://yorca.github.io/files/2024131356.pdf)  
-Zhaojie Hu\*, Jingzhou Ye\*, Yifan Zhang, Xueqiang Wang
+<div style="display: flex; align-items: center;">
+  <img src="http://yorca.github.io/filea/paper_pics/pico.png" style="margin-right: 10px;">
+  <div>
+    <strong><a href="http://yorca.github.io/files/2024131356.pdf">Euro S&P 2024: Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators</a></strong>  
+    Zhaojie Hu<em>*</em>, Jingzhou Ye<em>*</em>, Yifan Zhang, Xueqiang Wang
+  </div>
+</div>
+
 
 
 ## Work Experience
