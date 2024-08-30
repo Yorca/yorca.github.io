@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Zhaojie Hu's Homepage"
 title_separator          : "-"
 name                     : &name "Zhaojie Hu"
 description              : &description "Zhaojie Hu, PhD Student at University of Central Florida"
