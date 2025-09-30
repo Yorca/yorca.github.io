@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Zhaojie Hu. I am currently a second-year PhD student at the University of Central Florida, under the supervision of [Dr. Xueqiang Wang](https://xw48.github.io/). Prior to my doctoral studies, I worked at ByteDance's Douyin Relationship and Privacy Team. I earned my Master's degree in Advanced Computer Science from the University of Manchester and my Bachelor's degree in Software Engineering from South China Agricultural University. 
+My name is Zhaojie Hu. I am currently a third-year PhD student at the University of Central Florida, under the supervision of [Dr. Xueqiang Wang](https://xw48.github.io/). Prior to my doctoral studies, I worked at ByteDance's Douyin Relationship and Privacy Team. I earned my Master's degree in Advanced Computer Science from the University of Manchester and my Bachelor's degree in Software Engineering from South China Agricultural University. 
 
 My current research interests include Software Supply Chain Security and AI Security.
 
@@ -64,4 +64,4 @@ Data Mining Engineer Intern, Jul. 2018 - Oct. 2018
 - ORCGS Doctoral Fellowship, University of Central Florida, 2023-2024
 
 ## Service
-- **External Reviewer:** CCS' 24, CCS' 25, AsiaCCS '25
+- **External Reviewer:** CCS' 24, CCS' 25, AsiaCCS '25, USENIX Security '26
