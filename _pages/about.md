@@ -64,4 +64,5 @@ Data Mining Engineer Intern, Jul. 2018 - Oct. 2018
 - ORCGS Doctoral Fellowship, University of Central Florida, 2023-2024
 
 ## Service
+- **Reviewer:** CHI' 26
 - **External Reviewer:** CCS' 24, CCS' 25, AsiaCCS '25, USENIX Security '26
