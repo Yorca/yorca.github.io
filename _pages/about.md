@@ -15,7 +15,7 @@ My current research interests include Software Supply Chain Security and privacy
 
 <div style="display: flex; align-items: center;">
   <object
-    data="https://yorca.github.io/files/paper_pics/pinfinder_overview.pdf"
+    data="https://yorca.github.io/files/paper_pics/pinfinder_overview.png"
     type="application/pdf"
     width="300"
     height="180"
@@ -34,7 +34,7 @@ My current research interests include Software Supply Chain Security and privacy
 
 <div style="display: flex; align-items: center;">
   <object
-    data="https://yorca.github.io/files/paper_pics/dpjz.pdf"
+    data="https://yorca.github.io/files/paper_pics/dpjz.png"
     type="application/pdf"
     width="300"
     height="180"
