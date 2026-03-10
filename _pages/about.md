@@ -11,7 +11,7 @@ My name is Zhaojie Hu. I am currently a third-year PhD student at the University
 My current research interests include Software Supply Chain Security and privacy compliance.
 
 ## Publications
-(*: Equal contribution)
+**(*: Equal Contribution)**
 
 <div style="display: flex; align-items: center;">
   <img src="https://yorca.github.io/files/paper_pics/pinfinder_overview.png" width="300" style="margin-right: 10px; margin-bottom: 30px;">
