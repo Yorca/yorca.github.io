@@ -14,17 +14,7 @@ My current research interests include Software Supply Chain Security and privacy
 (*: Equal contribution)
 
 <div style="display: flex; align-items: center;">
-  <object
-    data="https://yorca.github.io/files/paper_pics/pinfinder_overview.png"
-    type="application/pdf"
-    width="300"
-    height="180"
-    style="margin-right: 10px; margin-bottom: 30px;"
-  >
-    <a href="https://yorca.github.io/files/paper_pics/pinfinder_overview.pdf" target="_blank">
-      View PDF
-    </a>
-  </object>
+  <img src="http://yorca.github.io/files/paper_pics/pinfinder_overview.png" width="300" style="margin-right: 10px; margin-bottom: 30px;">
   <div>
     <strong>[S&P 2026] Navigating Developers’ Quagmire: LLM-Enabled Privacy Compliance Analysis for SDK Integrations</strong>
     <br>
@@ -33,19 +23,9 @@ My current research interests include Software Supply Chain Security and privacy
 </div>
 
 <div style="display: flex; align-items: center;">
-  <object
-    data="https://yorca.github.io/files/paper_pics/dpjz.png"
-    type="application/pdf"
-    width="300"
-    height="180"
-    style="margin-right: 10px; margin-bottom: 30px;"
-  >
-    <a href="https://yorca.github.io/files/paper_pics/dpjz.pdf" target="_blank">
-      View PDF
-    </a>
-  </object>
+  <img src="http://yorca.github.io/files/paper_pics/dpjz.png" width="300" style="margin-right: 10px; margin-bottom: 30px;">
   <div>
-    <strong>[S&P 2026] When Designers Meet GenAI: Understanding the Role of Prompt-to-Design Generators in Privacy Dark Patterns</strong>
+    <strong>[S&P 2026] When Designers Meet GenAI: Understanding the Role of Prompt-to-Design Generators in Privacy Dark Patterns</a></strong>
     <br>
     Jingzhou Ye, <strong>Zhaojie Hu</strong>, Yao Li, Xueqiang Wang
   </div>
