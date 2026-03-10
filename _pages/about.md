@@ -25,7 +25,7 @@ My current research interests include Software Supply Chain Security and privacy
 <div style="display: flex; align-items: center;">
   <img src="http://yorca.github.io/files/paper_pics/dpjz.png" width="300" style="margin-right: 10px; margin-bottom: 30px;">
   <div>
-    <strong>[S&P 2026] When Designers Meet GenAI: Understanding the Role of Prompt-to-Design Generators in Privacy Dark Patterns</a></strong>
+    <strong>[S&P 2026] When Designers Meet GenAI: Understanding the Role of Prompt-to-Design Generators in Privacy Dark Patterns</strong>
     <br>
     Jingzhou Ye, <strong>Zhaojie Hu</strong>, Yao Li, Xueqiang Wang
   </div>
