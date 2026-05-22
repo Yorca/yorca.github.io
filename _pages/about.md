@@ -8,7 +8,7 @@ redirect_from:
 ---
 My name is Zhaojie Hu. I am currently a third-year PhD student at the University of Central Florida, under the supervision of [Dr. Xueqiang Wang](https://xw48.github.io/). Prior to my doctoral studies, I worked at ByteDance's Douyin Relationship and Privacy Team. I earned my Master's degree in Advanced Computer Science from the University of Manchester and my Bachelor's degree in Software Engineering from South China Agricultural University. 
 
-My current research interests include Software Supply Chain Security and privacy compliance.
+My current research interests focus on software supply chain security, privacy compliance, and security and privacy issues in AI agent ecosystems.
 
 ## Publications
 **(*: Equal Contribution)**
