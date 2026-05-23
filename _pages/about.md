@@ -73,7 +73,7 @@ iOS Engineer, Douyin Relationship and Privacy Team, Dec. 2020 - Jul. 2023
 iOS Engineer Intern, Douyin Social Team, Jul. 2020 - Nov. 2020
 
 ### Macriocode Co., Ltd., Shenzhen, China
-Data Mining Engineer Intern, Jul. 2018 - Oct. 2018
+Machine Learning Engineer Intern, Jul. 2018 - Oct. 2018
 
 ## Teaching Assistant
 - **[2024 Fall]** CDA5106 - Advanced Computer Architecture
