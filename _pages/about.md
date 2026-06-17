@@ -83,5 +83,6 @@ Machine Learning Engineer Intern, Jul. 2018 - Oct. 2018
 - ORCGS Doctoral Fellowship, University of Central Florida, 2023-2024
 
 ## Service
+- **PC Member:** USENIX Security '27
 - **Reviewer:** CHI' 26 (Privacy & Security Track)
 - **External Reviewer:** CCS' 24, CCS' 25, AsiaCCS '25, USENIX Security '26 
